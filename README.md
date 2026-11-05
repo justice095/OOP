@@ -1,2 +1,2 @@
-# OOP
-for oop in school
+# Web Tech
+for Web Tech in school
